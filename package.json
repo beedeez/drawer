@@ -88,7 +88,5 @@
       "^.+\\.(js|ts|tsx)$": "babel-jest"
     }
   },
-  "dependencies": {
-    "react-native-tab-view": "^1.2.0"
-  }
+  "dependencies": {}
 }
